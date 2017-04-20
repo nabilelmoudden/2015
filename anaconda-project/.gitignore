@@ -1,0 +1,9 @@
+./phpdocumentor
+./phpdocumentor/*
+./phpdocumentorouput
+./phpdocumentorouput/*
+.idea/
+views/
+businessCore/assets/
+businessCore/vendors/
+businessCore/config/
